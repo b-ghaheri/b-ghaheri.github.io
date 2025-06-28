@@ -1239,7 +1239,7 @@ ul.meta-tags li:last-child:after { content: ' ' }
     position:relative;
     padding:30px;
     padding-left:100px;
-    background:#f5f5f5;
+    background:#f1f1f1;
     border-radius:10px;
     box-shadow:-5px 5px 0 rgba(0,0,0,0.08);
     -webkit-transition:all .3s ease-out;
@@ -1266,7 +1266,7 @@ ul.meta-tags li:last-child:after { content: ' ' }
     height:0px;
     background:transparent;
     border:20px solid transparent;
-    border-left:20px solid #f5f5f5;
+    border-left:20px solid #f1f1f1;
     -webkit-transition:border-left-color .3s ease-out;
     transition:border-left-color .3s ease-out;
 }
@@ -1276,7 +1276,7 @@ ul.meta-tags li:last-child:after { content: ' ' }
     left:-40px;
     right:auto;
     border-left:20px solid transparent;
-    border-right:20px solid #f5f5f5;
+    border-right:20px solid #f1f1f1;
     -webkit-transition:border-right-color .3s ease-out;
     transition:border-right-color .3s ease-out;
 }
